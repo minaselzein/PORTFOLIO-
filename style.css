@@ -172,12 +172,10 @@ section {
 .section__pic-container {
   display: flex;
   height: 400px;
-  width: 400px;
-  margin: auto;
 }
 .section__pic-container,
 img {
-  border-radius: 70%;
+  border-radius: 40px;
 }
 
 .section__text {
@@ -324,8 +322,6 @@ img {
 
 .section__pic-container {
   height: 400px;
-  width: 400px;
-  margin: auto 0;
 }
 
 /* EXPERIENCE SECTION */
